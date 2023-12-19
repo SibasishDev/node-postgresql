@@ -1,0 +1,6 @@
+.env
+/node_modules
+.vscode
+.vercel
+/node_modules.vercel
+/myUserDataDir
